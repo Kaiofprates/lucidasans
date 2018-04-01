@@ -1,0 +1,5 @@
+http://facebook-sdk.readthedocs.io/en/latest/api.html
+
+https://developers.facebook.com/tools/explorer?method=GET&path=me%3Ffields%3Did%2Cname&version=v2.12
+
+https://api.vagalume.com.br/docs/news/
